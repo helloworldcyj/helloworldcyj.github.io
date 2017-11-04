@@ -1,0 +1,28 @@
+#header{
+  min-height: 350px;
+  background-image: url("../images/bg.jpg");
+  background-size: 200% ;
+}
+#bird1,#bird2,#bird3{
+  width: 100px;
+  height: 30px;
+  position: relative;
+}
+#bird1{
+  top: 50px;
+}
+#bird2{
+  top: 100px;
+}
+#bird3{
+  top: 150px;
+}
+#content1{
+  border-bottom: 1px solid #CCC;
+}
+#content1 h1{
+  font-weight: bold;
+}
+#content1 a{
+  font-size: 24px;
+}

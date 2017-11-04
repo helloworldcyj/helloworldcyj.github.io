@@ -1,0 +1,10 @@
+#content ul li{
+  height: 35px;
+  border-bottom: 1px solid #CCC;
+  border-radius: 5px;
+  line-height: 35px;
+}
+#content ul li a{
+  float: right;
+  margin-right: 5px;
+}
